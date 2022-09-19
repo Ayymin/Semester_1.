@@ -1,4 +1,4 @@
-package Opgave1;
+package L07_WhileLoops_Opg1;
 
 public class Loekker {
 	public void udskriv1_10() {

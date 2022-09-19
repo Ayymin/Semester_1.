@@ -1,4 +1,4 @@
-package Opgave2.example2;
+package L07_LoopsWorkshop.example2;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
