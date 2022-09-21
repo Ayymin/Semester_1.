@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ForLoop Øvelser/ForLoop Øvelser.iml" filepath="$PROJECT_DIR$/ForLoop Øvelser/ForLoop Øvelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek21-09Opgaver/Lek21-09Opgaver.iml" filepath="$PROJECT_DIR$/Lek21-09Opgaver/Lek21-09Opgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek21-09Opgaver/Opgave3Stars/Opgave3Stars.iml" filepath="$PROJECT_DIR$/Lek21-09Opgaver/Opgave3Stars/Opgave3Stars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Semester_1.iml" filepath="$PROJECT_DIR$/Semester_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/While loops/While loops.iml" filepath="$PROJECT_DIR$/While loops/While loops.iml" />
     </modules>
